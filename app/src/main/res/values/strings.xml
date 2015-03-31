@@ -4,5 +4,7 @@
     <string name="app_name">VacExpress</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_vaccine__details">Vaccine_Details</string>
+    <string name="title_activity_sign_up">SignUp</string>
 
 </resources>
